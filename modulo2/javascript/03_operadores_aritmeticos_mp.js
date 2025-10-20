@@ -26,7 +26,7 @@ console.log("potencia");
 potencia = numero1 ** numero2;
 console.log("Resultado de la potencia:", potencia);
 
-console.log("Operadores de Comparación en JavaScript:");
+console.log("Operadores de Comparación en JavaScript:"); 
 console.log("Igual débil ==", "5"==5);
 console.log("Igual fuerte ===", "5"===5);
 console.log("Diferente débil !=", "5"!="5");
