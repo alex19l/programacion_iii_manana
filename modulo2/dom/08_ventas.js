@@ -37,3 +37,4 @@ contenedor.addEventListener('click', (e) => {
     tarjeta.remove();
   }
 });
+ 
