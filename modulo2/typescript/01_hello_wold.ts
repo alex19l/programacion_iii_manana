@@ -1,0 +1,1 @@
+let message: String = "Hola mundo desde TypeScript y Javascript";
