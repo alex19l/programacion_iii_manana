@@ -3,7 +3,7 @@ console.log ("Variables en JavaScript");
 saludo="Hola a todos usando una variable";
 console.log ("Variable saludo", saludo);
 console.log ("Tipo de Variable", typeof (saludo));
-
+ 
 numero=256;
 console.log ("Variable numero", numero);
 console.log ("Tipo de Variable", typeof (numero));

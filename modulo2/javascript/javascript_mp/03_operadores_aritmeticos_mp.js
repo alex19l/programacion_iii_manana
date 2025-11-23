@@ -1,5 +1,5 @@
 console.log("Operadores Aritméticos en JavaScript:");
-
+ 
 numero1 = 20;
 numero2 = 5;
 console.log("suma");

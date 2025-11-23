@@ -1,2 +1,3 @@
-var mensaje = "Hola mundo desde TypeScript y JavaScript!";
-console.log(mensaje);
+"use strict";
+let mensaje = "Hola mundo desde TypeScript y JavaScript!";
+console.log(mensaje); 
